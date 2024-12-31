@@ -1,8 +1,17 @@
-# Your Gateway to Innovation: Qtec Solution Limited's GitHub
+# Explore Qtec Solution Limited's GitHub
+## Fully Managed On-Site Software Engineers To Build Your Product
 
 Qtec Solution Limited is a leading software development company specializing in delivering customized solutions to meet the unique needs of businesses worldwide. Founded in late 2019, we have successfully completed over 100 medium and large projects, serving more than 50 satisfied clients.
 
-![Qtec Solution Limited.](https://cloudlysoft.com/github-header.png)
+![Qtec Solution Limited.](https://raw.githubusercontent.com/qtecsolution/qtecsolution/refs/heads/main/QTEC-Solution-Limited.png)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://qtecsolution.com/Qtec-Solution-Limited-Portfolio.pdf)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/QtecSolution/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qtecsolution/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qtec-solution)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qtec_solution)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCU17dPFVAL1ei24zxBPjV8w)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qtecsolution.com/)
+
 ## Our Services
 
 - **Software Solutions Development**: We transform innovative ideas into reality, handling everything from design to development and providing lifetime support. Our expertise includes enterprise software solutions, e-commerce platforms, delivery management systems, business management tools, and learning applications.
@@ -34,17 +43,12 @@ Qtec Solution Limited is a leading software development company specializing in 
 - **DevOps:** Docker, Kubernetes, Jenkins, AWS, Azure
 - **Others:** GraphQL, REST APIs, WebSocket Integration
 
-## Connect with Us
+## Contact Us
 
-Stay updated with our latest projects and company news through our social media channels:
+- **Phone**: +8801313 522 828
+- **Email**: [info@qtecsolution.com](mailto:info@qtecsolution.com)
+- **Address**: House: 23, Road: 04, Nikunja-2, Khilkhet, Dhaka, Bangladesh
 
-- **Facebook**: [Qtec Solution Limited](https://www.facebook.com/QtecSolution/)
-- **Instagram**: [@qtecsolution](https://www.instagram.com/qtecsolution/)
-- **LinkedIn**: [Qtec Solution Limited](https://www.linkedin.com/company/qtec-solution)
-- **Twitter**: [@QtecSolution](https://twitter.com/qtec_solution)
-- **YouTube**: [Qtec Solution Limited](https://www.youtube.com/channel/UCU17dPFVAL1ei24zxBPjV8w)
-
-For more information, visit our [website](https://qtecsolution.com/) or contact us at info@qtecsolution.com.
+For more details, please visit our [Contact Us page](https://qtecsolution.com/contact-us).
 
 We look forward to collaborating with you to turn your vision into reality.
-
